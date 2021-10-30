@@ -1,0 +1,15 @@
+body {
+    background-color:#EEEEEE;
+    max width: 900px;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    text-align: justify;
+    line-height: 1,5;
+    font-family: verdana; color: black;
+}
+h1 {
+    font-style: italic; background-color: #3A4750
+    border-radius: 10px;
+    padding: 2%;
+    border: black 4px double
+}
