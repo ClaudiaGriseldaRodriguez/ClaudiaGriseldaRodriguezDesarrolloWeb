@@ -1,3 +1,5 @@
+
+
 body {
     background-color:#EEEEEE;
     max width: 900px;
@@ -7,9 +9,29 @@ body {
     line-height: 1,5;
     font-family: verdana; color: black;
 }
-h1 {
-    font-style: italic; background-color: #3A4750
-    border-radius: 10px;
-    padding: 2%;
-    border: black 4px double
+
+h6{
+    img { 
+    width="1230" ;height="200";}
 }
+
+h1 {font-style: italic; font-size: xx-large; text-align:center; text-decoration: chartreuse;    
+}
+
+h3 {
+    font-style: italic; text-align: center;
+}
+
+h3 {
+    font-style: italic; text-align: center;
+}
+
+article 
+    h5 {font-style: italic; text-align: right;
+}
+h4 {font-style: italic; font-size: large;  text-align: left}
+     img {float: right;
+     width: 300px;
+     height: 200px;
+     margin: 5px;
+      }
