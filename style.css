@@ -1,7 +1,6 @@
 
 
-body {
-    background-color:#EEEEEE;
+body { background-color:#EEEEEE;
     max width: 900px;
     margin-left: 2cm;
     margin-right: 2cm;
@@ -9,26 +8,35 @@ body {
     line-height: 1,5;
     font-family: verdana; color: black;
 }
+   
 
-h6{
-    img { 
-    width="1230" ;height="200";}
+ 
+.flexconteiner1 {
+display: flex;
+ flex-wrap: wrap
+}
+.flexconteiner div {
+img src: "https://static.wixstatic.com/media/756371_773bb1a52acf4c339e0c1add272c17c9~mv2.jpg/v1/fill/w_566,h_328,al_c,q_90/756371_773bb1a52acf4c339e0c1add272c17c9~mv2.webp" width="1230" ;height="200";}
+
+
+h1 {
+ font-style: italic; font-size: xx-large; text-align:center; text-decoration: chartreuse;  
 }
 
-h1 {font-style: italic; font-size: xx-large; text-align:center; text-decoration: chartreuse;    
-}
+h3 { 
+    font-style: italic; text-align: center;
+    
 
+}
 h3 {
     font-style: italic; text-align: center;
 }
 
-h3 {
-    font-style: italic; text-align: center;
-}
 
 article 
-    h5 {font-style: italic; text-align: right;
+    h5 { font-style: italic; text-align: right; 
 }
+
 h4 {font-style: italic; font-size: large;  text-align: left}
      img {float: right;
      width: 300px;
